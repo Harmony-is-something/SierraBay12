@@ -202,9 +202,7 @@
 		/datum/mil_branch/employee
 	)
 	allowed_ranks = list(
-		/datum/mil_rank/civ/nt,
-		/datum/mil_rank/civ/acting,
-		/datum/mil_rank/civ/acting_temp
+		/datum/mil_rank/civ/nt
 	)
 	min_skill = list(
 		SKILL_BUREAUCRACY	=	SKILL_BASIC,
